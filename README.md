@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**khalifardy/khalifardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on freelancer
@@ -25,4 +22,4 @@ Sebagai seorang Data Scientist, saya memiliki pemahaman yang mendalam tentang an
 3. Backend Development:
 
 Saya memiliki keahlian dalam pengembangan backend yang kuat. Saya terampil dalam membangun dan memelihara server, mengelola database, serta merancang dan mengimplementasikan API yang efisien dan aman. Saya juga berpengalaman dalam mengoptimalkan kinerja aplikasi dan meningkatkan skalabilitas sistem.
--->
+
